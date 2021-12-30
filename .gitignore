@@ -1,0 +1,9 @@
+downloaded
+archive.txt
+*.log
+cookies.txt
+credentials.json
+__pycache__
+.idea
+*.iml
+
